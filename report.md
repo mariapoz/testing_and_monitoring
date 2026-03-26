@@ -108,8 +108,9 @@
 
 ## 4. Дашборд в Grafana
 
-В Grafana был создан дашборд с визуализацией логируемых метрик.
+В Grafana был создан дашборд с визуализацией логируемых метрик
 
+<img width="1894" height="864" alt="image" src="https://github.com/user-attachments/assets/d95c5b6d-1c95-44c9-90f7-04e636898f93" />
 
 ### Технические панели
 - `Request rate by endpoint and status`
@@ -151,7 +152,8 @@
 5. **5xx errors detected**
    - срабатывает при появлении серверных ошибок 5xx
 
-Эти алерты покрывают как техническое состояние сервиса, так и ошибки, связанные с работой ML-пайплайна.
+<img width="1636" height="395" alt="image" src="https://github.com/user-attachments/assets/060351b4-5da0-48ce-be5c-b092fa2fca62" />
+
 
 ---
 
@@ -179,7 +181,9 @@
 
 `Evidently report sent successfully. reference=30, current=12`
 
-После этого отчет появился в интерфейсе Evidently в разделе `Reports`.
+После этого отчет появился в интерфейсе Evidently в разделе `Reports`
+<img width="1890" height="484" alt="image" src="https://github.com/user-attachments/assets/6ce8b6af-ac98-4c55-88ab-f3ad777817a8" />
+
 
 ---
 
